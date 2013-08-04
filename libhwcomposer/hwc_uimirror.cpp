@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#define HWC_UI_MIRROR 0
+#define HWC_UI_MIRROR 1
 #include <gralloc_priv.h>
 #include <fb_priv.h>
 #include "hwc_uimirror.h"
